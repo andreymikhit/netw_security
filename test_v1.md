@@ -54,7 +54,7 @@ hashdump
 
 
 * Какая из перечисленных утилит может использоваться для bruteforce-атаки на hash-паролей на GPU?
-* 
+
 Extreme Bruteforcer EGB, Elcomsoft EDPR
 
 ~~aircrack-ng~~
