@@ -18,5 +18,5 @@
 
 ---
 
-### Установить OpenVAS в Kali Linux
+#### 1. Установить OpenVAS в Kali Linux
 
