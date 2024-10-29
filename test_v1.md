@@ -22,6 +22,7 @@
 > https://www.ceos3c.com/security/install-openvas-kali-linux/
 > https://spy-soft.net/best-vulnerability-scanners/
 
+---
 
 - [x] ### = верный ответ ###
 
