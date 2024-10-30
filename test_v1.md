@@ -29,7 +29,7 @@
 ---
 
 ### 1. Вам нужно проверить, содержит ли WiFi-дамп полезную информацию для взлома. Выберите правильный вариант команд, которые можно для этого использовать.
-- [x] +airckrack-ng /nedia/shr/wpa.full.cap; airmon-ng start wlan0
+- [x] (+)airckrack-ng /nedia/shr/wpa.full.cap; airmon-ng start wlan0
 - [ ] -airodump-ng wlan0 --channel 12 -w еароli
 - [ ] pyrit -г ../wpa.full.cap analyze; cowpatty -r /media/shr/wpa.full.cap -c
 - [ ] wpaclean -h; john /media/shr/ crack_hach_pswd
