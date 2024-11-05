@@ -4,21 +4,23 @@
 
 ---
 
+## OpenVAS
+
 > [Методичка](https://gbcdn.mrgcdn.ru/uploads/asset/3847950/attachment/579a009c571eb5b8a126e120fa01caa5.pdf)
-> > https://habr.com/ru/articles/203766/
-> > https://dzen.ru/a/YlP_CLkNm2k3E9ek
-> > https://www.ceos3c.com/security/install-openvas-kali-linux/
-> > https://spy-soft.net/best-vulnerability-scanners/
+
+> https://habr.com/ru/articles/203766/
+
+> https://dzen.ru/a/YlP_CLkNm2k3E9ek
+
+> https://www.ceos3c.com/security/install-openvas-kali-linux/
+
+> https://spy-soft.net/best-vulnerability-scanners/
+
+> https://www.securitylab.ru
 
 > Следует учитывать, что использование подобных методов может быть незаконным и опасным.
 
 > Ст. **273** **УК** **РФ**
-
-> https://www.securitylab.ru
-
-> OpenVAS
-
-
 
 ---
 
